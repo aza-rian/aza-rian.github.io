@@ -1,2 +1,3 @@
-# home
-aza-rian personal website
+# AzariaN personnal website
+
+Repository of my personnal website

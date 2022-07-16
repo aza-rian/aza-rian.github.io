@@ -1,7 +1,7 @@
 {
-  "name": "home",
+  "name": "azarian-website",
   "version": "1.0.0",
-  "description": "aza-rian blog",
+  "description": "AzariaN personnal website",
   "main": "index.md",
   "scripts": {
     "docs:dev": "vitepress dev docs",
@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/aza-rian/home.git"
+    "url": "https://github.com/aza-rian/aza-rian.github.io.git"
   },
   "author": "aza-rian",
-  "license": "ISC",
+  "license": "GPL",
   "devDependencies": {
     "vitepress": "^1.0.0-alpha.4",
     "vue": "^3.2.37"
